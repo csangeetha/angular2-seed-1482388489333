@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: ng2-seed
-  name: ng2-seed
+  host: ng2newtrial-seed
+  name: ng2newtrial-seed
   path: .
   domain: mybluemix.net
   instances: 1
